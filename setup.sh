@@ -27,6 +27,7 @@
 🔹 Step 6: Configure Nginx
    Edit the default configuration file:
    sudo nano /etc/nginx/sites-enabled/default
+   <!-- changes is shown inside -imgs folder- config.jpg -->
 
 🔹 Step 6: Restart nginx service
    sudo service nginx reload
